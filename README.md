@@ -9,6 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [x] create personal blog with theme 
 - [x] EDIT THEME
 - [ ] ADD PAGES
+- [x] install jekyll
 - [ ] UPLOAD FILES AND FINILIZE THE BLOG
 
 
