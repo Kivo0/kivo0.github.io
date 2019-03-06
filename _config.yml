@@ -4,3 +4,7 @@ title: Vibotian
 description: [this is my personal blog, which i express my opinion and show my work]
 show_downloads: ["true"]
 google_analytics: [Your Google Analytics tracking ID]
+
+github:
+  zip_url: http://example.com/download.zip
+  another_url: www.google.com
