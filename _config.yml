@@ -2,5 +2,5 @@ theme: jekyll-theme-architect
 
 title: Vibotian
 description: [this is my personal blog, which i express my opinion and show my work]
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+show_downloads: ["true"]
 google_analytics: [Your Google Analytics tracking ID]
